@@ -1,0 +1,1 @@
+var json_DER_IVLAGUNA_LINEAS_BT_2 = {"type":"FeatureCollection","name":"DER_IVLAGUNA_LINEAS_BT_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
