@@ -29,7 +29,7 @@
         }).addTo(map);
         //https://raw.githubusercontent.com/ingalexvarela/MAPA_DER/main/data/archivo.geojson'
         // Cargar el archivo GeoJSON desde GitHub
-        fetch('https://raw.githubusercontent.com/ingalexvarela/MAPA_DER/main/data/BT82.geojson')
+        fetch('https://raw.githubusercontent.com/ingalexvarela/MAPA_DER/main/data/DEMBT.geojson')
             .then(response => response.json())
             .then(data => {
                 L.geoJSON(data).addTo(map);
